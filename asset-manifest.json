@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GItFire/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/GItFire/static/js/main.78838981.chunk.js",
+    "main.js.map": "/GItFire/static/js/main.78838981.chunk.js.map",
+    "runtime-main.js": "/GItFire/static/js/runtime-main.05ce5a7f.js",
+    "runtime-main.js.map": "/GItFire/static/js/runtime-main.05ce5a7f.js.map",
+    "static/css/2.1c87f66e.chunk.css": "/GItFire/static/css/2.1c87f66e.chunk.css",
+    "static/js/2.ee42cd3c.chunk.js": "/GItFire/static/js/2.ee42cd3c.chunk.js",
+    "static/js/2.ee42cd3c.chunk.js.map": "/GItFire/static/js/2.ee42cd3c.chunk.js.map",
+    "static/js/3.8faf2eb0.chunk.js": "/GItFire/static/js/3.8faf2eb0.chunk.js",
+    "static/js/3.8faf2eb0.chunk.js.map": "/GItFire/static/js/3.8faf2eb0.chunk.js.map",
+    "index.html": "/GItFire/index.html",
+    "static/css/2.1c87f66e.chunk.css.map": "/GItFire/static/css/2.1c87f66e.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/GItFire/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ee42cd3c.chunk.js.LICENSE.txt": "/GItFire/static/js/2.ee42cd3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05ce5a7f.js",
+    "static/css/2.1c87f66e.chunk.css",
+    "static/js/2.ee42cd3c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.78838981.chunk.js"
+  ]
+}
