@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GItFire/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/GItFire/static/js/main.78838981.chunk.js",
-    "main.js.map": "/GItFire/static/js/main.78838981.chunk.js.map",
+    "main.js": "/GItFire/static/js/main.1cfa89fe.chunk.js",
+    "main.js.map": "/GItFire/static/js/main.1cfa89fe.chunk.js.map",
     "runtime-main.js": "/GItFire/static/js/runtime-main.05ce5a7f.js",
     "runtime-main.js.map": "/GItFire/static/js/runtime-main.05ce5a7f.js.map",
     "static/css/2.1c87f66e.chunk.css": "/GItFire/static/css/2.1c87f66e.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1c87f66e.chunk.css",
     "static/js/2.ee42cd3c.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.78838981.chunk.js"
+    "static/js/main.1cfa89fe.chunk.js"
   ]
 }
